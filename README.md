@@ -4,7 +4,7 @@ Welcome to the **Laptop Price Predictor** – a machine learning-powered web app
 
 ---
 
-## 🔍 Project Overview
+## 🔍 Project Overview 
 
 Many users find it hard to estimate the price of a laptop based on specifications alone. This project uses machine learning regression techniques to predict laptop prices accurately based on various hardware and brand features.
 
