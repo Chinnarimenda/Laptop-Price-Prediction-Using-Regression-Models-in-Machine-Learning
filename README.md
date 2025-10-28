@@ -103,12 +103,6 @@ joblib
 
 ---
 
-## 🧪 Link to open the App:
-
-https://gsanathkumar20-laptop-price-app-msxfph.streamlit.app/
-
----
-
 ## 📈 Example Prediction
 
 Enter specs like:
@@ -139,8 +133,3 @@ And get a predicted price in Euros instantly!
 
 ---
 
-## 🧑‍💻 Author
-
-Made with 💡 by **Sanath Kumar Guthikonda**
-
-> *Aspiring Data Scientist | Passionate about ML Deployment | Streamlit Enthusiast*
